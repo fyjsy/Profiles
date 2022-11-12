@@ -14,7 +14,7 @@ DOMAIN,update.googleapis.com,DIRECT
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,dl.l.google.com,DIRECT
 DOMAIN,update.googleapis.com,DIRECT
-# >> Firebase Cloud Messaging
+# >> Firebase Cloud Messaging,DIRECT
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com,DIRECT
 DOMAIN,alt2-mtalk.google.com,DIRECT
