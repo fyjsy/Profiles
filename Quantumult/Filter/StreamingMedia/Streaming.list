@@ -59,8 +59,11 @@ DOMAIN-SUFFIX,overcast.fm,Streaming
 USER-AGENT,AbemaTV*,Streaming
 DOMAIN-SUFFIX,abema.io,Streaming
 DOMAIN-SUFFIX,abema.tv,Streaming
+DOMAIN-SUFFIX,abema-tv.com,Streaming
 DOMAIN-SUFFIX,ameba.jp,Streaming
 DOMAIN-SUFFIX,hayabusa.io,Streaming
+DOMAIN-SUFFIX,hayabusa.media,Streaming
+DOMAIN,api-abematv.bucketeer.jp,Streaming
 DOMAIN-KEYWORD,abematv.akamaized.net,Streaming
 # > All 4
 USER-AGENT,All4*,Streaming
